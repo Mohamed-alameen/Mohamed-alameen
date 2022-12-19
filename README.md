@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### **<div align="center">Fresher || Front - End Developer 🚀</div>**  
   
@@ -10,19 +6,12 @@
   
 
 - Good Knowledge in Bootstrap, Tailwind CSS ,ReactJS, Angular  
-  
-
--   
-  
-
--   
-  
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td width="33%">
 
 
 
